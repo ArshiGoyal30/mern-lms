@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     SCHOOL MANAGEMENT SYSTEM
 </h1>
@@ -190,3 +191,6 @@ Don't forget to leave a star for this project if you found the solution helpful.
 * Render - server side
 * Netlify - client side
 
+=======
+# mern-lms
+>>>>>>> ac7625c59488c3f57a86a6a0d7338b0af453f6f3
